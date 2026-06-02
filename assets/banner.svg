@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6e8bff"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="36%" r="60%">
+      <stop offset="0" stop-color="#6e8bff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#6e8bff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="440" fill="#0d1117"/>
+  <rect width="1600" height="440" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1600" height="6" fill="url(#accent)"/>
+
+  <text x="800" y="182" text-anchor="middle" font-size="76" font-weight="800" fill="#f0f6fc" letter-spacing="1">Ramin Hoodeh</text>
+  <text x="800" y="238" text-anchor="middle" font-size="28" fill="#c9d1d9">AI Product Manager who <tspan fill="#6e8bff" font-weight="700">builds</tspan></text>
+  <text x="800" y="294" text-anchor="middle" font-size="19" fill="#8b949e">I turn frontier-model capability into intuitive, beautifully crafted products — shipped end-to-end.</text>
+  <text x="800" y="364" text-anchor="middle" font-size="19" font-weight="600" fill="#5c8cff" letter-spacing="0.5">nsso  ·  Qadam  ·  Dreamsea  ·  24Seven Concierge  ·  RazinFlix</text>
+</svg>
