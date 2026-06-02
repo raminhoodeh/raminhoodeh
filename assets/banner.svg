@@ -24,7 +24,7 @@
   <!-- LEFT: hero type -->
   <text x="66" y="78" font-size="16" letter-spacing="3" fill="#6b7785">AI PRODUCT MANAGER &#183; BUILDER</text>
   <text x="62" y="172" font-size="76" font-weight="800" fill="url(#name)" letter-spacing="0.5">Ramin Hoodeh</text>
-  <text x="64" y="234" font-size="50" font-style="italic" font-family="Georgia, 'Times New Roman', serif" fill="#8ea0ae">who builds</text>
+  <text x="64" y="234" font-size="48" font-style="italic" font-family="Georgia, 'Times New Roman', serif" fill="#8ea0ae">ships beautiful products.</text>
   <text x="66" y="290" font-size="18" fill="#828d99">Frontier-model capability &#8594; intuitive, beautifully crafted products &#183; 9 years in product.</text>
 
   <line x1="66" y1="330" x2="900" y2="330" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
