@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ramin Hoodeh — AI Product Manager who builds](assets/banner.png)
+![Ramin Hoodeh — AI Product Manager who builds](https://raw.githubusercontent.com/raminhoodeh/raminhoodeh/main/assets/banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ramin.vision-1f6feb?style=for-the-badge)](https://www.ramin.vision/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/raminlinkedin)
